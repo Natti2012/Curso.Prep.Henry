@@ -1,0 +1,18 @@
+ "for" es un bucle donde declaramos una variable, 
+ luego ponemos una condicion, es decir indica cuando 
+ se va a detener el bucle, 
+ y por ultimo la incrementacion de la variable,
+ es decir cuanto va a ir aumentado .
+
+ "&&" "Y" ( "AND") es un operador  logico
+  que evalua las expresiones y retorna 
+  "true" si las dos expesiones son verdaderas 
+  de lo contrario si uno o ambas son falsa
+  devolvera "false"
+
+  "||" "O" (OR)  es un operador logico que devuelve 
+  "true" si una o ambas de las expresiones es verdadera, 
+   y "false" si amnas expresiones son falsas.
+
+   "!" "NO" (NOT) Es un operador logico que devolvera
+   lo contrario de lo que se le pida. 
